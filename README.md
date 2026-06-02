@@ -13,4 +13,4 @@ Esse projeto contribuiu para o aprendizado sobre armazenamento de informações,
 
 ___________________________________________________________________________________________________________________________________________________________
 
-![imagem](
+![imagem](https://github.com/erickdev510/CADASTRO_DE_PESSOAS.py/blob/main/CADASTRO_DE_PESSOAS.png)
