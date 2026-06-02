@@ -14,3 +14,9 @@ Esse projeto contribuiu para o aprendizado sobre armazenamento de informações,
 ___________________________________________________________________________________________________________________________________________________________
 
 ![imagem](https://github.com/erickdev510/CADASTRO_DE_PESSOAS.py/blob/main/CADASTRO_DE_PESSOAS.png)
+
+
+
+
+Conclusão ✅
+O desenvolvimento do projeto de Cadastro de Usuários foi importante para aprimorar habilidades em Python e compreender melhor o funcionamento de sistemas de gerenciamento de dados. Através dele, foi possível praticar conceitos essenciais da programação, além de desenvolver soluções simples e eficientes para organização de informações. O projeto também contribuiu para melhorar a lógica computacional, a estruturação de código e a resolução de problemas. 🚀🐍
